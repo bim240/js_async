@@ -1,6 +1,7 @@
 Guess the output of the codes below :-
 
 1.
+
 ```js
 function sayHello() {
   console.log("Hey You Called Me");
@@ -10,9 +11,11 @@ setTimeout(sayHello, 1000);
 console.log("Hey You!");
 ```
 
- output
+Hey You!
+Hey You Called Me
 
 2.
+
 ```js
 function sayHello() {
   console.log("Hey You Called Me");
@@ -22,9 +25,14 @@ setTimeout(sayHello, 0);
 
 console.log("Hey You!");
 ```
- output
+
+output
+
+Hey You!
+Hey You Called Me
 
 3.
+
 ```js
 function main() {
   console.log("A");
@@ -35,10 +43,15 @@ function main() {
 }
 main();
 ```
- output
+
+output
+A
+C
+B
 
 4.
-```js
+
+````js
 function runWhileLoopForNSeconds(sec) {
   let start = Date.now(),
     now = start;
@@ -54,12 +67,14 @@ function main() {
   runWhileLoopForNSeconds(3);
   console.log("C");
 }
+```
 
  output
+ no functions called
 
 5. Look at the output of the code below to understand hwo things are happening.
 
-```js
+```
 function runWhileLoopForNSeconds(sec) {
   let start = Date.now(),
     now = start;
@@ -80,3 +95,4 @@ function main() {
 main();
 
 ```
+````
