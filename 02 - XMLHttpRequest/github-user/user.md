@@ -1,0 +1,33 @@
+{login: "bim240", id: 50172413, node_id: "MDQ6VXNlcjUwMTcyNDEz", avatar_url: "https://avatars0.githubusercontent.com/u/50172413?v=4", gravatar_id: "", …}
+login: "bim240"
+id: 50172413
+node_id: "MDQ6VXNlcjUwMTcyNDEz"
+avatar_url: "https://avatars0.githubusercontent.com/u/50172413?v=4"
+gravatar_id: ""
+url: "https://api.github.com/users/bim240"
+html_url: "https://github.com/bim240"
+followers_url: "https://api.github.com/users/bim240/followers"
+following_url: "https://api.github.com/users/bim240/following{/other_user}"
+gists_url: "https://api.github.com/users/bim240/gists{/gist_id}"
+starred_url: "https://api.github.com/users/bim240/starred{/owner}{/repo}"
+subscriptions_url: "https://api.github.com/users/bim240/subscriptions"
+organizations_url: "https://api.github.com/users/bim240/orgs"
+repos_url: "https://api.github.com/users/bim240/repos"
+events_url: "https://api.github.com/users/bim240/events{/privacy}"
+received_events_url: "https://api.github.com/users/bim240/received_events"
+type: "User"
+site_admin: false
+name: "Bimlendu kumar"
+company: null
+blog: ""
+location: null
+email: null
+hireable: null
+bio: null
+public_repos: 29
+public_gists: 0
+followers: 2
+following: 2
+created_at: "2019-05-01T13:01:26Z"
+updated_at: "2020-01-27T17:46:03Z"
+**proto**: Object
