@@ -81,6 +81,10 @@ body {
   color: green;
   width: 70%;
 }
+.para:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
 
 .error_message {
   display: block;
